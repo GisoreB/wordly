@@ -2,15 +2,6 @@
 
 A new Flutter Guess the WORD project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot 2025-01-07 131412](https://github.com/user-attachments/assets/a5577ef1-2a1e-4357-bd56-9d48d9859aad)
+![Screenshot 2025-01-07 130307](https://github.com/user-attachments/assets/7622407f-bb74-4bbf-9170-6cbb62b37f97)
